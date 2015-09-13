@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#066;
+	
+}
+
+div {
+	background-color:#FF9;
+	height: 300px;
+	width: 500px;
+	Margin-left: 100px;
+}
+
+p {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
